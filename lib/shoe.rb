@@ -5,7 +5,7 @@ class Shoe
     @brand = brand
   end
 
-  def cobble(conditon)
+  def cobble()
     @conditon = "new"
     puts "Your shoe is as good as new!"
   end
